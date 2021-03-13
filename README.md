@@ -1,7 +1,7 @@
 # Superconductivity-Visualization
 
 ## Library used
-||||
+|Package name| Version|Build  Channel|
 |----|----|---|
 |altgraph                  |0.17                       |py_0|
 argon2-cffi               20.1.0           py37he774522_1
