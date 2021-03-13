@@ -1,7 +1,9 @@
 # Superconductivity-Visualization
 
 ## Library used
-altgraph                  0.17                       py_0
+||||
+|----|----|---|
+|altgraph                  |0.17                       |py_0|
 argon2-cffi               20.1.0           py37he774522_1
 async_generator           1.10             py37h28b3542_0
 attrs                     20.3.0             pyhd3eb1b0_0
